@@ -3,7 +3,7 @@
 * [介绍](README.md)
 * [组态](README.md)
 * [常见抽象(客户端和服务器端)](README.md)
-* [请求/响应实体的流性质的影响](README.md)
+* [请求/响应实体中流特性的影响](README.md)
 * [底层服务端API](README.md)
 * [上层服务端API](README.md)
 * [使用基于HTTP的服务(客户端)](README.md)
