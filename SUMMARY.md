@@ -4,7 +4,8 @@
 
 * [配置](chapter2/2configuration.md)
 
-* [常见抽象(客户端和服务器端)](README.md)
+* [常见抽象(客户端和服务器端)](chapter3/common_abstractions.md)
+
 * [请求/响应实体中流特性的影响](README.md)
 * [底层服务端API](README.md)
 * [上层服务端API](README.md)
