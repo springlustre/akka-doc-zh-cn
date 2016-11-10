@@ -4,7 +4,8 @@ HTTP和相关规范定义了大量的概念和功能，不是特定于HTTP的客
 他们在Akka HTTP中的对应文档在于本节中，而不是在仅特定于一侧的
 客户端API，底层服务器端API或高级服务器端API中。
 
-*   [HTTP 模型](3.1httpmodel.md)
+*   [HTTP 模型](3.1httpmodel.html)
     * [aa](3.1httpmodel.md#1)
-*   Green
-*   Blue
+
+*   [编组](3.2Marshalling.html)
+    * [aa](3.1httpmodel.md#1)
