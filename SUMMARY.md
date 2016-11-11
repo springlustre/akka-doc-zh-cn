@@ -5,7 +5,6 @@
 * [常见抽象(客户端和服务器端)](chapter3/common_abstractions.md)
     * [HTTP 模型](3.1httpmodel.md)
     * [编组](3.2Marshalling.md)
-        * [bb](3.2Marshalling.md#1)
     * [解组](3.3Unmarshalling.md)
     * [编码/解码](3.4EncodingDecoding.md)
     * [JSON支持](3.5JSONSupport.md)
