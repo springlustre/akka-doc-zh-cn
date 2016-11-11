@@ -1,16 +1,16 @@
 # Summary
 
 * [介绍](chapter1/1.1philosophy.md)
-
 * [配置](chapter2/2configuration.md)
-
 * [常见抽象(客户端和服务器端)](chapter3/common_abstractions.md)
-    *[HTTP 模型](chapter3/3.1httpmodel.md)
-      *[aa](chapter3/3.1httpmodel.md#1)
-
-    *   [编组](3.2Marshalling.html)
-      * [bb](chapter3/3.2Marshalling.md#1)  
-
+    * [HTTP 模型](3.1httpmodel.md)
+    * [编组](3.2Marshalling.md)
+        * [bb](3.2Marshalling.md#1)
+    * [解组](3.3Unmarshalling.md)
+    * [编码/解码](3.4EncodingDecoding.md)
+    * [JSON支持](3.5JSONSupport.md)
+    * [XML支持](3.6XMLSupport.md)
+    * [Akka HTTP超时](3.7AkkaHTTPTimeouts.md)
 * [请求/响应实体中流特性的影响](README.md)
 * [底层服务端API](README.md)
 * [上层服务端API](README.md)
